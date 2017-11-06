@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "srt": "0.0.3"
+    "srt": "0.0.3",
+    "subtitle": "^1.0.1"
   }
 }
